@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\APIs\\MovieApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\migrations\\20240228004532_addgenretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\migrations\\20240228004532_addgenretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "MovieApi\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:46:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240228004532_AddGenreTable.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
+              "RelativeToolTip": "MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:45:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "MovieApi\\Models\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:34:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "MovieApi\\GlobalUsing.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\GlobalUsing.cs",
+              "RelativeToolTip": "MovieApi\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:26:37.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Models\\Genre.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\Genre.cs",
+              "RelativeToolTip": "MovieApi\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:22:27.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
