@@ -156,3 +156,4 @@ F:\C#\APIs\MovieApi\MovieApi\obj\Debug\net8.0\refint\MovieApi.dll
 F:\C#\APIs\MovieApi\MovieApi\obj\Debug\net8.0\MovieApi.pdb
 F:\C#\APIs\MovieApi\MovieApi\obj\Debug\net8.0\MovieApi.genruntimeconfig.cache
 F:\C#\APIs\MovieApi\MovieApi\obj\Debug\net8.0\ref\MovieApi.dll
+F:\C#\APIs\MovieApi\MovieApi\obj\Debug\net8.0\MovieApi.sourcelink.json

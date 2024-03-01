@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "F:\\C#\\APIs\\MovieApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\movieapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\movieapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\movieapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\movieapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\migrations\\20240228025937_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\migrations\\20240228025937_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\migrations\\20240228004532_addgenretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\migrations\\20240228004532_addgenretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A728BB98-461E-456B-8D84-58BAB70692F9}|MovieApi\\MovieApi.csproj|f:\\c#\\apis\\movieapi\\movieapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +66,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Program.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Program.cs",
+              "RelativeToolTip": "MovieApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T03:17:17.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MovieApi\\WeatherForecast.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\WeatherForecast.cs",
+              "RelativeToolTip": "MovieApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T03:17:15.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieApi.http",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\MovieApi.http",
+              "RelativeDocumentMoniker": "MovieApi\\MovieApi.http",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\MovieApi.http",
+              "RelativeToolTip": "MovieApi\\MovieApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-28T03:17:12.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MovieApi\\appsettings.Development.json",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\appsettings.Development.json",
+              "RelativeToolTip": "MovieApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T03:16:12.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieApi.csproj",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\MovieApi.csproj",
+              "RelativeDocumentMoniker": "MovieApi\\MovieApi.csproj",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\MovieApi.csproj",
+              "RelativeToolTip": "MovieApi\\MovieApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T03:01:39.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApi\\appsettings.json",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\appsettings.json",
+              "RelativeToolTip": "MovieApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T02:59:51.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ApplicationDBContextModelSnapshot.cs",
               "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\ApplicationDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "MovieApi\\Migrations\\ApplicationDBContextModelSnapshot.cs",
@@ -46,34 +147,19 @@
               "RelativeToolTip": "MovieApi\\Migrations\\ApplicationDBContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T00:46:04.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T00:46:04.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "20240228004532_AddGenreTable.cs",
               "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
               "RelativeDocumentMoniker": "MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
               "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
               "RelativeToolTip": "MovieApi\\Migrations\\20240228004532_AddGenreTable.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T00:45:32.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "MovieApi\\Models\\ApplicationDBContext.cs",
-              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\ApplicationDBContext.cs",
-              "RelativeToolTip": "MovieApi\\Models\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T00:34:34.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T00:45:32.459Z"
             },
             {
               "$type": "Document",
@@ -85,12 +171,35 @@
               "RelativeToolTip": "MovieApi\\GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T00:26:37.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T00:26:37.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "20240228025937_Test.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\20240228025937_Test.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Migrations\\20240228025937_Test.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Migrations\\20240228025937_Test.cs",
+              "RelativeToolTip": "MovieApi\\Migrations\\20240228025937_Test.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T02:59:38.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "MovieApi\\Models\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:34:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Genre.cs",
               "DocumentMoniker": "F:\\C#\\APIs\\MovieApi\\MovieApi\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "MovieApi\\Models\\Genre.cs",
@@ -98,8 +207,7 @@
               "RelativeToolTip": "MovieApi\\Models\\Genre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T00:22:27.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T00:22:27.908Z"
             }
           ]
         }
